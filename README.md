@@ -3,7 +3,6 @@
 | key         | value                                                        |
 | ----------- | ------------------------------------------------------------ |
 | Name        | Mao Ohmura / 大村真央                                  |
-| Twitter     | [@mavo12312](https://twitter.com/mavo12312)                      |
 | Qiita       | [@mao12312 - Qiita](https://qiita.com/mao12312)                |
 | GitHub      | [mao12312 - GitHub](https://github.com/mao12312)               |
 | note     | [mao12312](https://note.com/mao12312)            |  
