@@ -35,7 +35,7 @@
 担当：バックエンド
 
 ### onegift-light
-[onegift-light](http://light.onegift.design/)
+[onegift-light](http://light.onegift.design/)  
 担当：バックエンド/インフラ(AWS)  
 
 ### よしのやHP
