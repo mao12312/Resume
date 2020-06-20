@@ -13,7 +13,7 @@
 2019/10/18〜：**株式会社404designers**  
 会社HP：https://company.404design.app/
 
-## 言語・FW
+## 技術領域・言語・FW
 - Back-end
     - PHP
         - Laravel
@@ -33,6 +33,10 @@
 [color-book-review](https://github.com/mao12312/color-book-review)  
 [概要note](https://note.com/404designers/n/na6fc907bef31)  
 担当：バックエンド
+
+### onegift-light
+[onegift-light](http://light.onegift.design/)
+担当：バックエンド/インフラ(AWS)  
 
 ### よしのやHP
 [よしのやHP](https://honkuzu.com/)  
