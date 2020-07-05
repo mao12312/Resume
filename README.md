@@ -38,8 +38,4 @@
 [onegift-light](http://light.onegift.design/)  
 担当：バックエンド/インフラ(AWS)  
 
-### よしのやHP
-[よしのやHP](https://honkuzu.com/)  
-担当：デザイン/フロント
-
 
